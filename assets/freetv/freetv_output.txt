@@ -1,5 +1,5 @@
 更新时间,#genre#
-20241125 18:30:12,url
+20241125 19:52:18,url
 
 
 freetv,#genre#
@@ -987,7 +987,6 @@ CCTV9,https://stream1.freetv.fun/cctv9-42.m3u8$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-47.m3u8$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-49.m3u8$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-5.m3u8$[BD]cctv9
-CCTV9,https://stream1.freetv.fun/cctv9-51.m3u8$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-52.ctv$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-54.ctv$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-55.ctv$[BD]cctv9
