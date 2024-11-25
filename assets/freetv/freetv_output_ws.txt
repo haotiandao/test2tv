@@ -1,5 +1,5 @@
 更新时间,#genre#
-20241125 15:43:36,url
+20241125 18:30:12,url
 
 
 freetv_ws,#genre#
@@ -375,6 +375,7 @@ freetv_ws,#genre#
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-98.m3u8
 宁夏卫视,https://stream1.freetv.fun/ipv6-zhu-xia-wei-shi-41.m3u8
 宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-13.m3u8
+宁夏卫视,https://stream1.freetv.fun/zhu-xia-wei-shi-52.m3u8
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-1.m3u8
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-10.m3u8
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-100.m3u8
