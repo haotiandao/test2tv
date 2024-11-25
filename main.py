@@ -571,11 +571,10 @@ utc_time = datetime.now(timezone.utc)
 beijing_time = utc_time + timedelta(hours=8)
 # 格式化为所需的格式
 formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
-
-
+version=formatted_time
 # 瘦身版
 # 
-all_lines_simple =  ["更新时间,#genre#"] + ['\n'] +\
+all_lines_simple =  ["更新时间,#genre#"] +[version]+ ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('专区/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('专区/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
